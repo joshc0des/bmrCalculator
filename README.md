@@ -1,0 +1,1 @@
+This is an console application for determining your BMR (Basal Metabolic Rate) based on certain variables.
